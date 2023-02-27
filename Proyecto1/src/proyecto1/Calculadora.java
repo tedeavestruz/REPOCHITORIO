@@ -6,6 +6,8 @@
 package proyecto1;
 //ESTE ARCHIVO HA SIDO CAMBIADO
 //ArchivoTerminal
+
+//Cambiado desde github
 /**
  *
  * @author Yo mismo
