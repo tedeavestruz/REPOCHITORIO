@@ -5,7 +5,7 @@
  */
 package proyecto1;
 //ESTE ARCHIVO HA SIDO CAMBIADO
-
+//ArchivoTerminal
 /**
  *
  * @author Yo mismo
