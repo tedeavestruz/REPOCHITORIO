@@ -13,7 +13,7 @@ package proyecto1;
  * @author Yo mismo
  * @see Calculadora
  * @version 2022/2023
- * @since 1/1/2023 Rama2
+ * @since 1/1/2023 Rama2 ejercicio 19
  */
 public class Calculadora {
     private int num1;
