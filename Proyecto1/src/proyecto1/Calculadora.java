@@ -8,7 +8,7 @@ package proyecto1;
 //ArchivoTerminal
 
 //Cambiado desde github
-/**
+/** 6 DE MARZO O LO QUE SEA
  *
  * @author Yo mismo
  * @see Calculadora
